@@ -1,0 +1,4 @@
+Stereo to Mono:
+ClickRemoval:Threshold="200" Width="20"
+Compressor:AttackTime="0.2" NoiseFloor="-40" Normalize="1" Ratio="4" ReleaseTime="1" Threshold="-12" UsePeak="1"
+ExportWav:

@@ -1,0 +1,5 @@
+SelectTime:End="0" RelativeTo="Selection" Start="-0.5"
+FadeIn:Use_Preset="<Factory Defaults>"
+CursSelStart:
+SelTrackStartToCursor:
+Delete:
