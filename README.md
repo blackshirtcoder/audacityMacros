@@ -42,6 +42,17 @@ them directly.
   entire segment (a chapter or whatever) will be selected and can be
   saved to disk.
 
+- `FadeOutFadeIn.txt`: Quite often I encounter a situation where I
+  delete some small amount of audio in the middle of an audio file. This
+  leaves a discontinuity in the remaining audio that can cause a pretty
+  severe "pop" in the playback unless the discontinuity is smoothed
+  away. That's what this macro does. You begin by selecting the region
+  you need to delete. Once deleted, Audacity leaves the cursor right at
+  the position where the remaining material is now adjacent. Execute
+  this macro. It highlights a 0.05 second wide selection to the left of
+  the cursor and fades it out, and then highlights a 0.05 second wide
+  selection to the right of the cursor and fades it in.
+
 ## Usage
 
 To install:

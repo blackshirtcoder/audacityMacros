@@ -1,0 +1,6 @@
+SelectTime:End="0" RelativeTo="Selection" Start="-0.05"
+FadeOut:Use_Preset="<Factory Defaults>"
+CursSelEnd:
+SelectTime:End="0.05" RelativeTo="Selection" Start="0"
+FadeIn:Use_Preset="<Factory Defaults>"
+CursSelStart:
