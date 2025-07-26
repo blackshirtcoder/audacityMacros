@@ -2,3 +2,4 @@ SelectTime:End="1" RelativeTo="Selection" Start="0"
 FadeOut:Use_Preset="<Factory Defaults>"
 CursSelEnd:
 SelTrackStartToCursor:
+ZoomSel:

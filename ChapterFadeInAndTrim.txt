@@ -3,3 +3,4 @@ FadeIn:Use_Preset="<Factory Defaults>"
 CursSelStart:
 SelTrackStartToCursor:
 Delete:
+CursProjectStart:
